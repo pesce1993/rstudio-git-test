@@ -2,4 +2,4 @@
 
 RR workshop RStudio + Git Repository
 
-My first commit to Github with R
+My first commit to Github with R!
